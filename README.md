@@ -2,6 +2,12 @@
  
 Families in Households Typology (FHT) is a tool for classifying households in survey data based on family relations between their members. The typology was created within the EU and UKRI funded project "Risks, Resources and Inequalities: Increasing Resilience in European Families (rEUsilience)"
 
+The codes (in Stata) are currently available for the following datasets:
+* European Quality of Life Survey (EQLS)
+* European Social Survey (ESS)
+* European Union Statistics on Income and Living Conditions (EU-SILC)
+* Household Budget Survey (HBS)
+
 FHT contains 12 categories (see below) that can be freely aggregated or adjusted. 
 
 1 Single adult household
@@ -27,5 +33,7 @@ FHT contains 12 categories (see below) that can be freely aggregated or adjusted
 11 Couples with parents 
 
 12 Other
+
+
 
 Funding: This project has received funding from the European Union’s Horizon Europe research and innovation programme under Grant Agreement No Project 101060410 and Innovate UK, the UK’s Innovation Agency.
