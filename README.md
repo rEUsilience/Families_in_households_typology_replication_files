@@ -5,16 +5,27 @@ Families in Households Typology (FHT) is a tool for classifying households in su
 FHT contains 12 categories (see below) that can be freely aggregated or adjusted. 
 
 1 Single adult household
+
 2 Couples 
+
 3 Single parents with dependent child 
-4 Single parents with adult child  
+
+4 Single parents with adult child 
+
 5 Couples with dependent children 
+
 6 Couples with adult children 
+
 7 Single parents with dependent children, grandparents 
+
 8 Single parents with adult children, grandparents 
+
 9 Couples with dependent children, grandparents 
+
 10 Couples with adult children, grandparents 
+
 11 Couples with parents 
+
 12 Other
 
 Funding: This project has received funding from the European Union’s Horizon Europe research and innovation programme under Grant Agreement No Project 101060410 and Innovate UK, the UK’s Innovation Agency.
